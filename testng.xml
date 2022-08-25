@@ -4,8 +4,10 @@
   <test thread-count="5" name="Test">
     <classes>
       <class name="com.actitime.testscripts.Practice1"/>
-      <class name="com.actitime.testscripts.Practice"/>
+      <class name="com.actitime.testscripts.PracticeTest"/>
       <class name="com.actitime.testscripts.Practice2"/>
+      <class name="com.actitime.testscripts.PracticesstTest"/>
+      <class name="com.actitime.testscripts.YoutryTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
