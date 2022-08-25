@@ -8,7 +8,7 @@ import com.actitime.generic.BaseClass;
 @Listeners(com.actitime.generic.ListnerImplementation.class)
 public class Practice2 extends BaseClass{
 
-	@Test(groups="smokeTest")
+	@Test(groups="smokeTest") 
 	public void createProjectTest()
 	{
 		System.out.println("Task assigned");
