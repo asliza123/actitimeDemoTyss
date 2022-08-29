@@ -25,6 +25,7 @@ public class Practice2 extends BaseClass{
 	public void deleteProjectTest()
 	{
 		System.out.println("Contact Deleted");
+	         System.out.println("Contact Deleted1");
 	}
 }
 
